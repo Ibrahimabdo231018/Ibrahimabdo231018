@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-3x-orange.svg?logo=goldmedal) 
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-2x-orange.svg?logo=silvermedal) 
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) 
